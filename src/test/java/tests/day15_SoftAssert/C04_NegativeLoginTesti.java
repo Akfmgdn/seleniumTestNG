@@ -12,7 +12,7 @@ public class C04_NegativeLoginTesti {
     // 3.de yanlis email, yanlis sifre ile giris yapmayi deneyin
     // giris yapilamadigini test edin
     QualitydemyPage qualitydemyPage= new QualitydemyPage();
-////
+//////
     @Test
     public void yanlisEmailTesti(){
 

@@ -8,6 +8,6 @@ public class C02_hepsiBurdaTestCase {
 
 
 
-//
+////
 
 }

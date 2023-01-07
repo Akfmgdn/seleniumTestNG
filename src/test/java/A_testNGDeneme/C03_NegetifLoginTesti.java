@@ -23,7 +23,7 @@ public class C03_NegetifLoginTesti {
         qualitydemyPage.passwordKutusu.sendKeys(ConfigReader.getProperty("qdGecersizPassword"));
         qualitydemyPage.loginButonu.click();
         Assert.assertTrue(qualitydemyPage.kullaniciEmailKutusu.isDisplayed());
-//
+////
         ReusableMethods.bekle(3);
         Driver.closeDriver();
     }
