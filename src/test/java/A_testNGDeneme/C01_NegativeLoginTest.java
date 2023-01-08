@@ -52,7 +52,7 @@ public class C01_NegativeLoginTest {
 
         List<WebElement> dropDawnList=select.getOptions();
 
-
+//
 
 
     // 10. soft assert kullanarak DropDown listesinin su secenekleri oldugunu test edin

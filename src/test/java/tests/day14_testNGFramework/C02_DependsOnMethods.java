@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 
 public class C02_DependsOnMethods {
 
-
+//
     @Test(priority = -3)
     public void ilkTest(){
         System.out.println("Ilk test calisti");

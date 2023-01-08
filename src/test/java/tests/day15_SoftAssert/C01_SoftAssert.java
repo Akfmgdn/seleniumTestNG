@@ -10,7 +10,7 @@ public class C01_SoftAssert {
 
     @Test
     public void test01(){
-//
+////
         // amazon anasayfaya gidin
         Driver.getDriver().get("https://www.amazon.com");
         // amazon anasayfaya gittiginizi dogrulayin

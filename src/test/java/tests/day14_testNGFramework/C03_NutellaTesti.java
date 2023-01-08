@@ -13,7 +13,7 @@ public class C03_NutellaTesti {
 
     @Test
     public void test01(){
-        //
+        ////
         Driver.getDriver().get("https:www.amazon.com");
         WebElement aramaKutusu=Driver.getDriver().findElement(By.id("twotabsearchtextbox"));
 
