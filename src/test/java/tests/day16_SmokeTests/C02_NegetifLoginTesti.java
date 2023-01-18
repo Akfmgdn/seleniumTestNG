@@ -7,7 +7,7 @@ import pages.QualitydemyPage;
 import utilities.ConfigReader;
 import utilities.Driver;
 import utilities.ReusableMethods;
-//
+////
 public class C02_NegetifLoginTesti {
     // 3 test method'u olusturun
     // 1.de yanlis email, dogru sifre
