@@ -9,7 +9,7 @@ import utilities.ConfigReader;
 import utilities.Driver;
 
 public class C02_DataProvider {
-
+//
     @DataProvider
     public static Object[][] AmazonAranacakKelimeler() {
         /*

@@ -59,7 +59,7 @@ public class C02_SoftAssert {
         String actualDropdownSecim= select.getFirstSelectedOption().getText();
         String expectedDropdownSecim="Eurozone (euro)";
         softAssert.assertEquals(actualDropdownSecim,expectedDropdownSecim,"eurozone secimi testi failed");
-
+//
         // 10. soft assert kullanarak DropDown listesinin su secenekleri oldugunu test edin
         // "Select One", "Australia (dollar)", "Canada (dollar)","Switzerland (franc)","China (yuan)",
         // "Denmark (krone)","Eurozone (euro)","Great Britain (pound)","Hong Kong (dollar)","Japan (yen)",

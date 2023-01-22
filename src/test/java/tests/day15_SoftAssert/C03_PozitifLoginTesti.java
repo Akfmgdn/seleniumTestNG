@@ -8,7 +8,7 @@ import utilities.Driver;
 public class C03_PozitifLoginTesti {
     @Test
     public void test01(){
-
+//
         // 1- https://www.qualitydemy.com/ anasayfasina gidin
         Driver.getDriver().get("https://www.qualitydemy.com/");
         // 2- login linkine basin
